@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+
+<!-- Posters -->
+
+<type name="RP_gladiators">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_aclockworkorange">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_ironman">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_hulk">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_RetroCustom">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_captainamerica">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_batman">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_Ateam">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_knightrider">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_rambo">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_terminator">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_lockstock">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_scarymovie">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_Surburban">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_hoe">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_goodfellas">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_conair">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_billandted">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_jurrasicpark">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_boyznthehood">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_pulpfiction">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_spacejam">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_aceventura">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_thewarriors">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_unclebuck">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_coolrunnings">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_Beetlejuice">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_Tron">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_Bladerunner">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+<type name="RP_Turtles">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+<type name="RP_Spaceballs">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+
+<type name="RP_Ghostbusters">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+<type name="RP_flashgordon">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+<type name="RP_StarWars">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+<type name="RP_StarTrek">
+<nominal>0</nominal>
+<lifetime>18000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+</types>
