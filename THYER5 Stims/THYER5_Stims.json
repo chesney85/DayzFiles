@@ -1,0 +1,70 @@
+{
+  "m_Version": 12,
+  "DisplayName": "THYER5 Stims",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Stim_Blood",
+      "MaxPriceThreshold": 4,
+      "MinPriceThreshold": 2,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Stim_Flu",
+        "Stim_Health",
+        "Stim_Hydration",
+        "Stim_Immunity",
+        "Stim_Infection",
+        "Stim_Nutrition",
+        "Stim_Shock",
+        "Stim_Toxic",
+        "Stim_Fractures",
+        "Stim_Salmonella",
+        "Stim_FoodPoisoning",
+        "Stim_Kuru"
+      ]
+    },
+    {
+      "ClassName": "StimArmbandCase_Leather",
+      "MaxPriceThreshold": 6,
+      "MinPriceThreshold": 3,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "iFAK_Green",
+      "MaxPriceThreshold": 8,
+      "MinPriceThreshold": 4,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "iFAK_Tan"
+      ]
+    },
+    {
+      "ClassName": "FAK",
+      "MaxPriceThreshold": 8,
+      "MinPriceThreshold": 4,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+      ]
+    }
+  ]
+}
