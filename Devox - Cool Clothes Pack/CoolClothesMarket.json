@@ -1,0 +1,293 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Cool Clothes",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "DS_CargoPants_Noir",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DS_CargoPants_Orange",
+        "DS_CargoPants_Rouge",
+        "DS_CargoPants_Rose",
+        "DS_CargoPants_BountyHunter",
+        "DS_CargoPants_CCE"
+      ]
+    },
+    {
+      "ClassName": "DS_GorkaHelmet_BountyHunter",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DS_GorkaHelmet_GIGN"
+      ]
+    },
+    {
+      "ClassName": "DS_JupeNoireEtBlanche",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DS_JupeRose",
+        "DS_JupeRougeEtNoire",
+        "DS_JupeAntechrist"
+      ]
+    },
+    {
+      "ClassName": "DS_Labcoat_Akatsuki",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DS_HuntingJacket_Noire",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+      ]
+    },
+    {
+      "ClassName": "DS_PCU5Jacket_Noire",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DS_PCU5Jacket_GIGN",
+        "DS_PCU5Jacket_CCE",
+        "DS_PCU5Jacket_GN",
+        "DS_PCU5Jacket_Police"
+      ]
+    },
+    {
+      "ClassName": "DS_ParamedicJacket_Medecin_FR",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+      ]
+    },
+    {
+      "ClassName": "DS_Doudoune_Akatsuki",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DS_Hoodie_GIGN",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DS_Hoodie_Unicorn",
+        "DS_Hoodie_Powerwolf",
+        "DS_Hoodie_Sabaton",
+        "DS_Hoodie_Metallica",
+        "DS_Hoodie_Bastille",
+        "DS_Hoodie_HelluvaBoss",
+        "DS_Hoodie_Devox"
+      ]
+    },
+    {
+      "ClassName": "DS_Coyotebp_Noir",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DS_Coyotebp_NoirEtRose",
+        "DS_Coyotebp_RoseEtNoir",
+        "DS_Coyotebp_BountyHunter",
+        "DS_Coyotebp_Secours",
+        "DS_Coyotebp_Police",
+        "DS_Coyotebp_CCE"
+      ]
+    },
+    {
+      "ClassName": "DS_TacticalGloves_Noir",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DS_TacticalGloves_Bountyhunter"
+      ]
+    },
+    {
+      "ClassName": "DS_Porteplaques_Noir",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DS_Porteplaques_BountyHunter",
+        "DS_Porteplaques_Gendarmerie",
+        "DS_Porteplaques_GIGN",
+        "DS_Porteplaques_Police",
+        "DS_Porteplaques_CCE"
+      ]
+    },
+    {
+      "ClassName": "DS_PressVest_Medic",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DS_UKAssVest_Secours",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DS_UKAssVest_Noire"
+      ]
+    },
+    {
+      "ClassName": "DS_Holster_Noir",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DS_Holster_CCE",
+        "DS_Holster_Police"
+      ]
+    },
+    {
+      "ClassName": "DS_Poches_Molles_Noires",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DS_Poches_Molles_Bountyhunter",
+        "DS_Poches_Molles_Police",
+        "DS_Poches_Molles_CCE"
+      ]
+    },
+    {
+      "ClassName": "DS_Calot_GN",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DS_BaseballCap_GN",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DS_BaseballCap_GN_Noire",
+        "DS_BaseballCap_Police",
+        "DS_BaseballCap_CCE",
+        "DS_BaseballCap_CCE_Patch",
+        "DS_BaseballCap_Orange",
+        "DS_BaseballCap_Medecin"
+      ]
+    },
+    {
+      "ClassName": "DS_Mich2001_CCE",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DS_Mich2001_Police",
+        "DS_Mich2001_Medecin"
+      ]
+    },
+    {
+      "ClassName": "DS_GorkaHelmet_BountyHunter",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DS_GorkaHelmet_GIGN"
+      ]
+    }
+  ]
+}
