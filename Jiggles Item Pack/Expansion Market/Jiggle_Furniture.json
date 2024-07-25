@@ -1,0 +1,183 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Jiggles Furniture",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Jiggles_endTablekit_doubleDecker",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 7000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Jiggles_endTablekit_walnut",
+        "Jiggles_endTablekit_glass"
+      ]
+    },
+    {
+      "ClassName": "Jiggles_coffeeTablekit_cherrywood",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Jiggles_coffeeTablekit_walnut",
+        "Jiggles_coffeeTablekit_dark"
+      ]
+    },
+    {
+      "ClassName": "Jiggles_captainsBedkit",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Jiggles_dresserkit_walnut",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Jiggles_nightstandkit_spruce",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 7000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Jiggles_daisies",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Jiggles_heartLeaf_plant",
+        "Jiggles_waxplant",
+        "Jiggles_rubberTree_plant",
+        "Jiggles_succulent_plant"
+      ]
+    },
+    {
+      "ClassName": "Jiggles_teapot",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Jiggles_birdhouse",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Jiggles_loveseatKit_plaid",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Jiggles_loveseatKit_Flowers",
+        "Jiggles_loveseatKit_fadedBrown",
+        "Jiggles_loveseatKit_camillaFlowers"
+      ]
+    },
+    {
+      "ClassName": "Jiggles_dreamcatcher",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Jiggles_dog_picture",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Jiggles_shihtzu_picture",
+        "Jiggles_huskyPuppy_picture",
+        "Jiggles_ski_picture",
+        "Jiggles_dogFlowers_picture",
+        "Jiggles_camping_picture",
+        "Jiggles_boat_picture",
+        "Jiggles_boatFish_picture",
+        "Jiggles_2Rabbits_picture",
+        "Jiggles_2puppies_picture",
+        "Jiggles_cbr_picture",
+        "Jiggles_cottage_picture"
+      ]
+    },
+    {
+      "ClassName": "Jiggles_redPour_canvas",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Jiggles_yellowFlowers_canvas",
+        "Jiggles_walkingTrail_canvas",
+        "Jiggles_fallTrail_canvas",
+        "Jiggles_sunset_canvas",
+        "Jiggles_snowySunset_canvas",
+        "Jiggles_snowyForest_canvas",
+        "Jiggles_icyTrees_canvas",
+        "Jiggles_cloudyLake_canvas",
+        "Jiggles_dogRose_canvas",
+        "Jiggles_blueFlowers_canvas",
+        "Jiggles_redFlowers_canvas",
+        "Jiggles_snowyRoad_canvas",
+        "Jiggles_anitaFlower_canvas"
+      ]
+    }
+  ]
+}
