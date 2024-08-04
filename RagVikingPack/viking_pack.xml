@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="rag_viking_axe">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_axe_doubled">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_drinkhorn">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>60</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_halbert">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_hammer">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_horn">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>2400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="ContaminatedArea"/>
+    </type>
+	<type name="rag_viking_mug">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>60</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_shield">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_hatchet">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_dagger">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_dragonslayer_axe">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="rag_viking_helmet">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_helmet2">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_bracer">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_armwrist">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_sword">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_flamberge_sword">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_knife">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_helmet3">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_helmet4">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_helmet5">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_belt">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_pouch_1">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_pouch_2">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_pouch_3">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_holster">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_raven">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_boots">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_pot">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_table_kit">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_table">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="rag_viking_warbanner_kit">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_warbanner">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	
+	
+	
+	<!-- The following outfit is very OP. Spawn it ingame first and see if you want it or not. -->
+	
+	
+	<!--<type name="rag_viking_leather_vest">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_leather_pants">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_leather_jacket">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_leather_gloves">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_leatherbag">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>-->
+	<type name="rag_viking_firepit_kit">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_firepit">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="rag_viking_sundial_kit">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_sundial">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="rag_viking_idun">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>10800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="rag_viking_lantern">
+        <nominal>2</nominal>
+        <lifetime>1209600</lifetime>
+        <restock>600</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="viking_shelter">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="viking_shelter_kit">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_spear">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_cleaver_axe">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_coinbag">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>        
+        <usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_coin_1">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="rag_viking_coin_5">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="rag_viking_coin_10">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="rag_viking_coin_25">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="rag_viking_coin_50">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="rag_viking_coin_100">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+    <type name="rag_viking_coin_500">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="rag_viking_coin_1000">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="rag_viking_coin_10000">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="rag_coin">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="rag_viking_crown_mercia">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+    </type>
+	<type name="rag_viking_bb_hammer">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Hunting"/>
+		<usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+</types>

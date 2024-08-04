@@ -1,0 +1,142 @@
+{
+    "m_Version": 12,
+    "DisplayName": "RaG Viking Armor",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+      {
+        "ClassName": "rag_viking_shield",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": -1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_viking_helmet",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": -1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_viking_helmet2",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": -1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_viking_bracer",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": -1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_viking_helmet3",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": -1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_viking_helmet4",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": -1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_viking_helmet5",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": -1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_viking_belt",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": -1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_viking_pouch_1",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": -1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_viking_pouch_2",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": -1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_viking_pouch_3",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": -1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_viking_holster",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": -1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      }
+    ]
+}
