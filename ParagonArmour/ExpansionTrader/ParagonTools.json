@@ -1,0 +1,41 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Paragon Tools",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Paragon_KATT_Black",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_KATT_Desert",
+        "Paragon_KATT_Green"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Karambit_Black",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Karambit_BRY",
+        "Paragon_Karambit_BY",
+        "Paragon_Karambit_Rainbow",
+        "Paragon_Karambit_Purple",
+        "Paragon_Karambit_White"
+      ]
+    }
+  ]
+}
