@@ -1,0 +1,515 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Paragon Storage",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "StorageBox_BigSafe_Black",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 40000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_BigSafe_Grey",
+        "StorageBox_BigSafe_Rainbow"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_Safe_Black",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_Safe_Grey",
+        "StorageBox_Safe_Gold",
+        "StorageBox_Safe_Green",
+        "StorageBox_Safe_Blue",
+        "StorageBox_Safe_White",
+        "StorageBox_Safe_Rainbow"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_SmallSafe_Black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_SmallSafe_Grey",
+        "StorageBox_SmallSafe_Gold",
+        "StorageBox_SmallSafe_Green",
+        "StorageBox_SmallSafe_Blue",
+        "StorageBox_SmallSafe_White",
+        "StorageBox_SmallSafe_Rainbow"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_Mcrate_Black",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 40000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_Mcrate_Grey",
+        "StorageBox_Mcrate_Tan",
+        "StorageBox_Mcrate_Green",
+        "StorageBox_Mcrate_Blue"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_Scrate_Black",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_Scrate_Grey",
+        "StorageBox_Scrate_Tan",
+        "StorageBox_Scrate_Green",
+        "StorageBox_Scrate_Blue"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_Tcrate_Black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_Tcrate_Grey",
+        "StorageBox_Tcrate_Tan",
+        "StorageBox_Tcrate_Green",
+        "StorageBox_Tcrate_Blue"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_MiliCrate_Black",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 40000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_MiliCrate_Grey",
+        "StorageBox_MiliCrate_Tan",
+        "StorageBox_MiliCrate_Green",
+        "StorageBox_MiliCrate_Blue"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_MetalRack_Black",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 40000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_MetalRack_Tan",
+        "StorageBox_MetalRack_Green"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_Pallet_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_Pallet_Tan",
+        "StorageBox_Pallet_Green"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_Wood_Crate",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "StorageBox_Locker_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_Locker_Blue",
+        "StorageBox_Locker_Green",
+        "StorageBox_Locker_Purple",
+        "StorageBox_Locker_Red",
+        "StorageBox_Locker_White",
+        "StorageBox_Locker_Yellow"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_Mlocker_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_Mlocker_Grey",
+        "StorageBox_Mlocker_Green",
+        "StorageBox_Mlocker_Tan",
+        "StorageBox_Mlocker_Blue"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_Mcabinet_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_Mcabinet_Tan",
+        "StorageBox_Mcabinet_Green"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_HotDog_Cart",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_IceBox",
+        "StorageBox_IC_Freezer",
+        "StorageBox_Fridge_Black",
+        "StorageBox_Fridge_White"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_GunWall_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_GunWall_Green",
+        "StorageBox_GunWall_Tan"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_GunRack_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_GunRack_Green",
+        "StorageBox_GunRack_Tan"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_DGunRack_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_DGunRack_Green",
+        "StorageBox_DGunRack_Tan"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_GunCase_Brown",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_GunCase_Grey",
+        "StorageBox_GunCase_Cherry"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_DGunCase_Brown",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_DGunCase_Grey",
+        "StorageBox_DGunCase_Cherry"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_Container_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_Container_Grey",
+        "StorageBox_Container_Tan",
+        "StorageBox_Container_Green",
+        "StorageBox_Container_Blue",
+        "StorageBox_Container_Red"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_ToolB_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_ToolB_Red",
+        "StorageBox_ToolB_White",
+        "StorageBox_ToolB_Blue",
+        "StorageBox_ToolB_Yellow"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_HeliPad",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "StorageBox_GearStand",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_GearStandC_B",
+        "StorageBox_GearStandC_G",
+        "StorageBox_GearStandC_C"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_Compound_Gate",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_Compound_Wall"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_BigTent_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_BigTent_Green",
+        "StorageBox_BigTent_White"
+      ]
+    },
+    {
+      "ClassName": "Paragon_WaterBarrel_Blue",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_WaterBarrel_Black",
+        "Paragon_WaterBarrel_Green",
+        "Paragon_WaterBarrel_Yellow",
+        "Paragon_WaterBarrel_Red"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_Dumpster",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_GraffitiCan",
+        "StorageBox_TrashCan"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_Adoor_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_Adoor_Gold",
+        "StorageBox_Adoor_Green",
+        "StorageBox_Adoor_Blue",
+        "StorageBox_Adoor_Rainbow"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_Rdoor_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_Rdoor_Green",
+        "StorageBox_Adoor_Green"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_Bdoor",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "StorageBox_PlanterBox",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "StorageBox_P_GreenHouse",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "StorageBox_LargeGreenHouse",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "StorageBox_WallRack_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_WallRack_Green",
+        "StorageBox_WallRack_Tan"
+      ]
+    },
+    {
+      "ClassName": "StorageBox_Weapons_Rack_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "StorageBox_Weapons_Rack_Green",
+        "StorageBox_Weapons_Rack_Tan"
+      ]
+    }
+  ]
+}
