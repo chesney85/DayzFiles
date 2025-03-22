@@ -1,0 +1,53 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Gebs Clothing",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "geb_OrangeFishGloves",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_BlueFishGloves"
+      ]
+    },
+    {
+      "ClassName": "geb_BlueFishHat",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_RedFishHat",
+        "geb_GreenFishHat",
+        "geb_PurpleFishHat"
+      ]
+    },
+    {
+      "ClassName": "geb_RedFishShirt",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_GreenFishShirt",
+        "geb_BlueFishShirt",
+        "geb_PurpleFishShirt"
+      ]
+    }
+  ]
+}
