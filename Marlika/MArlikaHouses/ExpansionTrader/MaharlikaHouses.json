@@ -1,0 +1,27 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Maharlika Kit Houses",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Van_Woodenhouse_Admin_Kit",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Van_Woodenhouse_B_Admin_Kit",
+        "Van_Woodenhouse_C_Admin_Kit",
+        "Van_Woodenhouse_D_Admin_Kit",
+        "Van_Woodenhouse_E_Admin_Kit",
+        "Van_Woodenhouse_F_Admin_Kit"
+      ]
+    }
+  ]
+}
