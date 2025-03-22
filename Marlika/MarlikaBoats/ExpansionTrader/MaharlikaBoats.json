@@ -1,0 +1,160 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BOATS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Van_Yacht",
+      "MaxPriceThreshold": 44000,
+      "MinPriceThreshold": 22000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "Van_WaterContainer",
+        "cauldron"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "Van_RHIB",
+      "MaxPriceThreshold": 37800,
+      "MinPriceThreshold": 22680,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": [
+        "Van_RHIB_Black"
+      ]
+    },
+    {
+      "ClassName": "Van_Jetski",
+      "MaxPriceThreshold": 600000000,
+      "MinPriceThreshold": 300000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": [
+        "Van_Jetski_Black",
+        "Van_Jetski_Blue",
+        "Van_Jetski_Camo",
+        "Van_Jetski_Orange"
+        ]
+    },
+    {
+      "ClassName": "Van_RHIB",
+      "MaxPriceThreshold": 37800,
+      "MinPriceThreshold": 22680,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": [
+        "Van_RHIB_Black"
+      ]
+    },
+    {
+      "ClassName": "Van_WoodenBoat",
+      "MaxPriceThreshold": 37800,
+      "MinPriceThreshold": 22680,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "Van_Sailboat",
+      "MaxPriceThreshold": 37800,
+      "MinPriceThreshold": 22680,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "Van_Sailboat_Fridge",
+        "Van_Sailboat_Washing"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "Van_FishingTrawler",
+      "MaxPriceThreshold": 37800,
+      "MinPriceThreshold": 22680,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "Van_Catamaran",
+      "MaxPriceThreshold": 37800,
+      "MinPriceThreshold": 22680,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "Van_HouseBoat",
+      "MaxPriceThreshold": 37800,
+      "MinPriceThreshold": 22680,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "Van_Airboat",
+      "MaxPriceThreshold": 37800,
+      "MinPriceThreshold": 22680,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": [
+        "Van_Airboat_Black",
+        "Van_Airboat_Blue",
+        "Van_Airboat_Orange",
+        "Van_Airboat_Purple",
+        "Van_Airboat_Green",
+        "Van_Airboat_Camo"
+        ]
+    }
+  ]
+}
