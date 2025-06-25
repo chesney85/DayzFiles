@@ -15,20 +15,11 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+	    "Paragon_Axe_Silver"
+	    ]
         },
-		        {
-            "ClassName": "Paragon_Axe_Silver",
-            "MaxPriceThreshold": 12000,
-            "MinPriceThreshold": 12000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
+		  {
             "ClassName": "Paragon_Sword_Gold",
             "MaxPriceThreshold": 15000,
             "MinPriceThreshold": 15000,
@@ -37,20 +28,11 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+	    "Paragon_Sword_Silver"
+	    ]
         },
-		        {
-            "ClassName": "Paragon_Sword_Silver",
-            "MaxPriceThreshold": 12000,
-            "MinPriceThreshold": 12000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
+		  {
             "ClassName": "Paragon_SilverBar",
             "MaxPriceThreshold": 6000,
             "MinPriceThreshold": 6000,
@@ -61,7 +43,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		 {
             "ClassName": "Paragon_Silver_Stack",
             "MaxPriceThreshold": 9000,
             "MinPriceThreshold": 9000,
@@ -72,7 +54,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		  {
             "ClassName": "Paragon_GoldBar",
             "MaxPriceThreshold": 12000,
             "MinPriceThreshold": 12000,
@@ -83,7 +65,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		  {
             "ClassName": "Paragon_Trophy_Gold",
             "MaxPriceThreshold": 12000,
             "MinPriceThreshold": 12000,
@@ -92,31 +74,13 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+            "Paragon_Trophy_Silver",
+	    "Paragon_Trophy_Bronze"
+		    
+	    ]
         },
-		        {
-            "ClassName": "Paragon_Trophy_Silver",
-            "MaxPriceThreshold": 9000,
-            "MinPriceThreshold": 9000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_Trophy_Bronze",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
+		 {
             "ClassName": "Paragon_GoldBar_Stack",
             "MaxPriceThreshold": 15000,
             "MinPriceThreshold": 15000,
@@ -127,30 +91,8 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
-            "ClassName": "Paragon_Diamond_White",
-            "MaxPriceThreshold": 8000,
-            "MinPriceThreshold": 8000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_Diamond_Red",
-            "MaxPriceThreshold": 7000,
-            "MinPriceThreshold": 7000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_Diamond_Green",
+		{
+            "ClassName": "Paragon_Diamond_Purple",
             "MaxPriceThreshold": 6000,
             "MinPriceThreshold": 6000,
             "SellPricePercent": -1,
@@ -158,42 +100,16 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+	    "Paragon_Diamond_White",
+	    "Paragon_Diamond_Red",
+	    "Paragon_Diamond_Green",
+            "Paragon_Diamond_Pink",
+            "Paragon_Diamond_Blue"
+		    
+	    ]
         },
-		        {
-            "ClassName": "Paragon_Diamond_Purple",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_Diamond_Pink",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_Diamond_Blue",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
+		 {
             "ClassName": "Paragon_Crystal_Rainbow",
             "MaxPriceThreshold": 8000,
             "MinPriceThreshold": 8000,
@@ -202,75 +118,17 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+            "Paragon_Crystal_Red",
+	    "Paragon_Crystal_Yellow",
+	    "Paragon_Crystal_Green",
+	    "Paragon_Crystal_Purple",
+	    "Paragon_Crystal_Pink",
+	    "Paragon_Crystal_Blue"
+		    
+	    ]
         },
-		        {
-            "ClassName": "Paragon_Crystal_Red",
-            "MaxPriceThreshold": 7000,
-            "MinPriceThreshold": 7000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_Crystal_Yellow",
-            "MaxPriceThreshold": 7000,
-            "MinPriceThreshold": 7000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_Crystal_Green",
-            "MaxPriceThreshold": 7000,
-            "MinPriceThreshold": 7000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_Crystal_Purple",
-            "MaxPriceThreshold": 6000,
-            "MinPriceThreshold": 6000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_Crystal_Pink",
-            "MaxPriceThreshold": 6000,
-            "MinPriceThreshold": 6000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_Crystal_Blue",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
+	        {
             "ClassName": "Paragon_Bitcoin",
             "MaxPriceThreshold": 12000,
             "MinPriceThreshold": 12000,
@@ -281,7 +139,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		 {
             "ClassName": "Paragon_Intel",
             "MaxPriceThreshold": 9000,
             "MinPriceThreshold": 9000,
@@ -292,7 +150,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		 {
             "ClassName": "Paragon_Documents",
             "MaxPriceThreshold": 9000,
             "MinPriceThreshold": 9000,
@@ -303,7 +161,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		 {
             "ClassName": "Paragon_Lion",
             "MaxPriceThreshold": 12000,
             "MinPriceThreshold": 12000,
@@ -314,7 +172,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "Paragon_Skull_Gold",
             "MaxPriceThreshold": 8000,
             "MinPriceThreshold": 8000,
@@ -336,7 +194,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		 {
             "ClassName": "Paragon_Canister_White",
             "MaxPriceThreshold": 6000,
             "MinPriceThreshold": 6000,
@@ -345,42 +203,14 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+            "Paragon_Canister_Red",
+	    "Paragon_Canister_Blue",
+	    "Paragon_Canister_Yellow"
+		    
+	    ]
         },
-		        {
-            "ClassName": "Paragon_Canister_Red",
-            "MaxPriceThreshold": 6000,
-            "MinPriceThreshold": 6000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_Canister_Blue",
-            "MaxPriceThreshold": 6000,
-            "MinPriceThreshold": 6000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_Canister_Yellow",
-            "MaxPriceThreshold": 6000,
-            "MinPriceThreshold": 6000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
+		 {
             "ClassName": "Paragon_GlowRock_Blue",
             "MaxPriceThreshold": 9000,
             "MinPriceThreshold": 9000,
@@ -389,53 +219,15 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+            "Paragon_GlowRock_Pink",
+	    "Paragon_GlowRock_Orange",
+	    "Paragon_GlowRock_Green",
+	    "Paragon_GlowRock_Red"
+		    
+	    ]
         },
-		        {
-            "ClassName": "Paragon_GlowRock_Red",
-            "MaxPriceThreshold": 9000,
-            "MinPriceThreshold": 9000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_GlowRock_Green",
-            "MaxPriceThreshold": 9000,
-            "MinPriceThreshold": 9000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_GlowRock_Orange",
-            "MaxPriceThreshold": 9000,
-            "MinPriceThreshold": 9000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_GlowRock_Pink",
-            "MaxPriceThreshold": 9000,
-            "MinPriceThreshold": 9000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
+		  {
             "ClassName": "Paragon_Cube_Blue",
             "MaxPriceThreshold": 15000,
             "MinPriceThreshold": 15000,
@@ -444,20 +236,11 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+	    "Paragon_Cube_Green"
+	    ]
         },
-		        {
-            "ClassName": "Paragon_Cube_Green",
-            "MaxPriceThreshold": 15000,
-            "MinPriceThreshold": 15000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
+		 {
             "ClassName": "Paragon_Cube_White",
             "MaxPriceThreshold": 15000,
             "MinPriceThreshold": 15000,
@@ -477,31 +260,12 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+	    "Paragon_Triangle_White",
+	    "Paragon_Triangle_Orange"
+	    ]
         },
-		        {
-            "ClassName": "Paragon_Triangle_Orange",
-            "MaxPriceThreshold": 15000,
-            "MinPriceThreshold": 15000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
-            "ClassName": "Paragon_Triangle_White",
-            "MaxPriceThreshold": 15000,
-            "MinPriceThreshold": 15000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		        {
+		 {
             "ClassName": "Paragon_WII",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 5000,
@@ -512,7 +276,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		 {
             "ClassName": "Paragon_Money",
             "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 10000,
@@ -523,7 +287,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		 {
             "ClassName": "Paragon_DS",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
@@ -534,7 +298,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		 {
             "ClassName": "Paragon_Crown",
             "MaxPriceThreshold": 8000,
             "MinPriceThreshold": 8000,
@@ -545,7 +309,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		 {
             "ClassName": "Paragon_Kaws_Black",
             "MaxPriceThreshold": 15000,
             "MinPriceThreshold": 15000,
@@ -554,42 +318,13 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+	    "Paragon_Kaws_Blue",
+	    "Paragon_Kaws_Red",
+	    "Paragon_Kaws_White"
+	    ]
         },
-				        {
-            "ClassName": "Paragon_Kaws_White",
-            "MaxPriceThreshold": 15000,
-            "MinPriceThreshold": 15000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-				        {
-            "ClassName": "Paragon_Kaws_Red",
-            "MaxPriceThreshold": 15000,
-            "MinPriceThreshold": 15000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-				        {
-            "ClassName": "Paragon_Kaws_Blue",
-            "MaxPriceThreshold": 15000,
-            "MinPriceThreshold": 15000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-				        {
+		{
             "ClassName": "Paragon_GameBoy_Blue",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 5000,
@@ -598,41 +333,12 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-				        {
-            "ClassName": "Paragon_GameBoy_Red",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-				        {
-            "ClassName": "Paragon_GameBoy_Yellow",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-				        {
-            "ClassName": "Paragon_GameBoy_Green",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        }
+            "Variants": [
+	    "Paragon_GameBoy_Red",
+	    "Paragon_GameBoy_Yellow",
+	    "Paragon_GameBoy_Green"
+	    ]
+        },	
 		
     ]
 }
