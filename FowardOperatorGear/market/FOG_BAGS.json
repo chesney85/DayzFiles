@@ -8,8 +8,8 @@
   "Items": [
     {
       "ClassName": "fog_bag_6shbagt_black",
-      "MaxPriceThreshold": 8000,
-      "MinPriceThreshold": 8000,
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
     },
     {
       "ClassName": "fog_bag_6shbagt_cb",
-      "MaxPriceThreshold": 8000,
-      "MinPriceThreshold": 8000,
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
     },
     {
       "ClassName": "fog_bag_6shbagt_green",
-      "MaxPriceThreshold": 8000,
-      "MinPriceThreshold": 8000,
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
     },
     {
       "ClassName": "fog_bag_6shbagt_rg",
-      "MaxPriceThreshold": 8000,
-      "MinPriceThreshold": 8000,
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,

@@ -623,17 +623,6 @@
       "Variants": []
     },
     {
-      "ClassName": "fog_he",
-      "MaxPriceThreshold": 3000,
-      "MinPriceThreshold": 3000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "FOG_Helmet_AJs_FAST_SF_Tan",
       "MaxPriceThreshold": 3000,
       "MinPriceThreshold": 3000,
